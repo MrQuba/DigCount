@@ -1,0 +1,3 @@
+displayName = Dig Count
+author = MrQuba
+version = 1.0
